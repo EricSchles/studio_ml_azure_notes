@@ -2,5 +2,7 @@
 
 How to install things:
 
+```
 import sys
 !{sys.executable} -m pip install [PACKAGE NAME]
+```
